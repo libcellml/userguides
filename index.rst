@@ -11,10 +11,10 @@ The library is intended to be lightweight and focused purely in dealing with Cel
 .. toctree::
    :maxdepth: 1
 
-   installation/installation_index.rst
-   howto/howto_index.rst
-   tutorials/index.rst
-   theory/theory_index.rst
+   installation/index
+   howto/index
+   tutorials/index
+   theory/index
 
 Installation and getting started
 ================================

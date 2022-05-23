@@ -247,7 +247,7 @@ The solution values and calculated variables are written to the output file.
 The solution files are written in a tab-delimited format which can be read by your favourite plotting application.
 The plots below were generated using a step size of 0.1 for 100 iterations.
 
-.. figure:: /theory/images/sineComparison.png
+.. figure:: /common_users/images/sine_comparison.png
    :name: sine_comparison
    :alt: Solution to sine comparison model
    :align: center

@@ -1,6 +1,7 @@
-libCellML User Guides
-=====================
+libcellml-tutorials
+===================
 
 This repository contains examples and tutorials for consumers of the libCellML library.
 
-The content of this repository is best viewed at https://libcellml.org/documentation/latest/userguides.
+For contributors to libCellML, please see :libcellml_repo:`the source code repository <>` instead.
+

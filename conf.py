@@ -178,7 +178,7 @@ html_theme = 'bizstyle'
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
-    'navigation_depth': 2,
+    # 'navigation_depth': 2,  # Not a theme option for bizstyle.
 }
 
 # Automagically convert all :ref: blocks to show a tooltip using the hoverxref

@@ -13,7 +13,7 @@ The library is intended to be lightweight and focused purely in dealing with Cel
 
    installation/installation_index.rst
    howto/howto_index.rst
-   tutorials/tutorials_index.rst
+   tutorials/index.rst
    theory/theory_index.rst
 
 Installation and getting started

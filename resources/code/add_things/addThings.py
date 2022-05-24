@@ -22,7 +22,7 @@ if __name__ == '__main__':
     # of variables.  The component's variable count has been updated too.
     assert(success == true)
     assert(my_component.variableCount() == 1)
-    assert(my_variable.parent() == my_variable)
+    assert(my_variable.parent() == my_component)
     assert(my_component.variable(0) == my_variable)
 
     # Now see what happens if that same variable is added to another

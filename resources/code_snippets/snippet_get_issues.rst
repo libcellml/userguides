@@ -17,8 +17,8 @@
 
       .. literalinclude:: /tutorials/utilities/utilities.cpp
         :language: c++
-        :start-after: // START getCellmlElementTypeFromEnum
-        :end-before: // END getCellmlElementTypeFromEnum
+        :start-after: // START cellmlElementTypeAsString
+        :end-before: // END cellmlElementTypeAsString
 
       .. literalinclude:: /tutorials/utilities/utilities.cpp
         :language: c++

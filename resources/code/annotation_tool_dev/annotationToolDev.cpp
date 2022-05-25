@@ -80,7 +80,7 @@ int main()
     if(annotator->isUnique("green")){
         // Retrieve item from the annotator by its unique id.
         itemOfUnknownType = annotator->item("green");
-        std::cout << "The item with id 'green' has type: "<< getCellmlElementTypeFromEnum(itemOfUnknownType.first) << std::endl;
+        std::cout << "The item with id 'green' has type: "<< cellmlElementTypeAsString(itemOfUnknownType->type()) << std::endl;
     }
     
     // Because these could be any kind of item, they are stored in an AnyItem

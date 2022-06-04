@@ -20,3 +20,6 @@ CMakeLists.txt.user
 .vscode/
 *.profraw
 howto/images/sineComparisonExample_solution.xlsx
+
+# Compiled Python bytecode.
+__pycache__

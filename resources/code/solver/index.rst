@@ -19,7 +19,7 @@ To use the package just follow the instructions below.
 
   - :download:`CMakeLists.txt <CMakeLists.txt>` The CMake file which controls the building of the solver.
     Note that this is a little different from usual, as outlined below.
-  - :download:`simpleSolver.cpp<simpleSolver.cpp>` The source file.
+  - :download:`solveGeneratedModel.cpp<solveGeneratedModel.cpp>` The source file.
 
 .. container:: dothis
 
@@ -107,7 +107,7 @@ The theory on which it's based can be found on the :ref:`Theory of ODE solver<od
 
   **Python resources**
 
-  - :download:`simplesolver.py<simplesolver.py>` The solver script.
+  - :download:`solveGeneratedModel.py<solveGeneratedModel.py>` The solver script.
 
 Once you've used the :code:`Generator` to write a CellML model into Python format, you need to run it to produce the solution.
 The script can be run from the command line as below:

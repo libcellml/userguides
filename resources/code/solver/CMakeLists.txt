@@ -4,7 +4,7 @@ set(INPUT_HELP "Please enter the name of the implementation file to solve (with 
 set(INPUT "" CACHE FILEPATH ${INPUT_HELP})
 
 if("${INPUT}" STREQUAL "")
-        message(FATAL_ERROR "${INPUT_HELP}")
+    message(FATAL_ERROR "${INPUT_HELP}")
 endif()
 
 get_filename_component(INPUTNAME ${INPUT} NAME_WE)
